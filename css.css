@@ -1,0 +1,38 @@
+#header{
+    
+    width:700px;
+    height:1500px;
+    background-color: saddlebrown;
+}
+#header #headshow{
+    position: fixed;
+    top: 50px;
+    width: 700px;
+    height: 150px;
+    color: royalblue;
+    background-color:darkgreen;
+    
+}
+#h1{
+    position absolute;
+    color: fuchsia;
+    top: 200;
+    width 250;
+    
+}
+#header #head1{position: relative;
+    color: darkturquoise;
+    left:200px;
+top: 100px;
+width: 150px;
+
+}
+#header #headshow h1{
+    position: relative;
+    left: 50px;
+    top: 5px;
+    color: darkred;
+    z-index: 88;
+
+
+}
